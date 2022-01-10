@@ -23,8 +23,7 @@ the challenge is to do a card as closed as the design and design is to fit all p
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://optimistic-hugle-711b70.netlify.app/)
 
 ### Built with
 
