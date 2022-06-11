@@ -187,9 +187,9 @@ body {
     line-height: 1.8;
   }
   .paragraph {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 100;
-    margin: 31px 0;
+    margin: 33px 0;
     color: var(--clr-slightly-transparent-whit);
   }
 
