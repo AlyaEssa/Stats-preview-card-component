@@ -190,7 +190,7 @@ body {
   .paragraph {
     font-size: 18px;
     font-weight: 100;
-    margin: 10px 0;
+    margin: 16px 0;
     color: var(--clr-slightly-transparent-whit);
     padding-right: 38px;
   }
