@@ -175,10 +175,10 @@ body {
     flex-direction: row;
     /*   justify-content: flex-end; */
     align-self: flex-start;
-    margin-left: 105px;
-    gap: 22px;
+    margin-left: 70px;
+    gap: 70px;
     margin-bottom: 22px;
-    margin-top: 3px;
+    margin-top: 25px;
   }
   .content {
    /* padding: 0 60px;*/
