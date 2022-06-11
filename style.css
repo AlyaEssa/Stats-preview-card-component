@@ -182,7 +182,7 @@ body {
     margin-top: 3px;
   }
   .content {
-    padding: 0 60px;
+   /* padding: 0 60px;*/
     text-align: start;
     line-height: 1.8;
   }
